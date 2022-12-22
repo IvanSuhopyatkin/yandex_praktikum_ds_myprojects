@@ -12,5 +12,7 @@ numpy
 sklearn
 ## Навыки и инструменты
 -Python
+
 -NumPy
+
 -Scikit-learn
