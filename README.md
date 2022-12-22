@@ -3,7 +3,7 @@
 
 | № | Название проекта | Описание | Ключевые слова |
 | :-------------------- | :-------------------- | :-------------------- | :-------------------- |
-|1 | Базовый Python | ы | ы |
+|1 |[Базовый Python]([https://www.google.com "Google's Homepage"](https://github.com/IvanSuhopyatkin/yandex_praktikum_ds_myprojects/tree/main/1.%D0%91%D0%B0%D0%B7%D0%BE%D0%B2%D1%8B%D0%B9%20Python)) | ы | ы |
 |2 | ы | ы | ы |
 |3 | ы | ы | ы |
 |4 | ы | ы | ы |
