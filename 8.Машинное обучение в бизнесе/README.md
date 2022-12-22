@@ -12,7 +12,9 @@ numpy
 sklearn
 ## Навыки и инструменты
 -Pandas
+
 -Scikit-learn
+
 -бутстреп
 
 
