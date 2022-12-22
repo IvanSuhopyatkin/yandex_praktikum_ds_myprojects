@@ -10,6 +10,13 @@
 ## Используемые библиотеки
 pandas
 
+matplotlib
+
+math
+
+stats
+
+numpy
 ## Навыки и инструменты
 - Python
 
