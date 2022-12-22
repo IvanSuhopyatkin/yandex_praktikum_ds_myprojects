@@ -17,6 +17,8 @@ sklearn
 
 -lightgbm
 
+-CatBoostRegressor
+
 
 
 
